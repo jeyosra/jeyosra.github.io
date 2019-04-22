@@ -1,4 +1,4 @@
-# https://pocteo.github.io/blog
+# https://jeyosra.github.io/blog
 My blog made with [jekyll](http://jekyllrb.com) and hosted with Github Pages.
 
 # Installation
