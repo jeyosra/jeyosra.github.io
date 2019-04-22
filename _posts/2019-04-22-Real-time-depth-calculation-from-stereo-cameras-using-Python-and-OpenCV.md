@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Article
+title: Real time depth calculation from stereo cameras using Python and OpenCV
 category: OpenCV
 comments: true
 description: ...
